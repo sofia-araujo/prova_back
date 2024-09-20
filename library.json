@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "Cem Anos de Solidão",
+    "ano_publicacao": 1967,
+    "id_livro": "431543c4-9b94-4572-ac2e-49d316dbcef2",
+    "autor": {
+      "nome": "Gabriel Garcia Marquez",
+      "data_nascimento": "1927-03-06",
+      "nacionalidade": "Colombiana"
+    },
+    "editora": {
+      "nome": "HarperCollins",
+      "pais": "Estados Unidos",
+      "ano_fundacao": 1989
+    }
+  },
+  {
+    "titulo": "Cem Anos de Solidão",
+    "ano_publicacao": 1967,
+    "id_livro": "8726f971-5ada-4e63-9816-9e99bac9eb1e",
+    "autor": {
+      "nome": "Gabriel Garcia Marquez",
+      "data_nascimento": "1927-03-06",
+      "nacionalidade": "Colombiana"
+    },
+    "editora": {
+      "nome": "badkadmo",
+      "pais": "Estados Unidos",
+      "ano_fundacao": 1989
+    }
+  },
+  {
+    "titulo": "Cem Anos de Solidão",
+    "ano_publicacao": 1967,
+    "id_livro": "d52e0622-2ad6-405f-afe2-55d6b85dcdbb"
+  }
+]
